@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CineApp",
+    "slug": "cineapp",
+    "version": "1.0.0",
+    "scheme": "cineapp",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": ["expo-router"]
+  }
+}
