@@ -1,4 +1,4 @@
-# CineApp — Catálogo de Filmes
+# RwzStreaming — Catálogo de Filmes
 
 - **Nome:** Renan Zanetti Oliveira
 - **RA:** 2991392513026
